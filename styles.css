@@ -85,6 +85,14 @@ body {
   border-radius: 5%;
  
 }
+
+@media (min-width: 320px) and (max-width:768px) {
+  img {
+    width: 50vw;
+    height: 75vh;
+  }}
+
+
 }
 
 
